@@ -1,0 +1,20 @@
+{
+    "DESIGN_NAME": "aes_128_core",
+
+    "VERILOG_FILES": [
+        "dir::src/AES_128_main.v"
+    ],
+
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 20,
+
+    "PDK": "sky130A",
+    "STD_CELL_LIBRARY": "sky130_fd_sc_hd",
+
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 1600 1600",
+    "CORE_AREA": "20 20 1580 1580",
+
+    "FP_CORE_UTIL": 30,
+    "PL_TARGET_DENSITY": 0.40
+}
