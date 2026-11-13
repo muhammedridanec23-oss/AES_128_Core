@@ -1,0 +1,25 @@
+
+53. Printing statistics.
+
+=== aes_128_core ===
+
+   Number of wires:              12020
+   Number of wire bits:          13943
+   Number of public wires:          10
+   Number of public wire bits:    1802
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:              12404
+     $_ANDNOT_                     928
+     $_AND_                         35
+     $_MUX_                       7288
+     $_NAND_                        97
+     $_NOR_                        147
+     $_NOT_                        638
+     $_ORNOT_                     1469
+     $_OR_                         718
+     $_XNOR_                        93
+     $_XOR_                        728
+     sky130_fd_sc_hd__dfrtp_2      263
+
